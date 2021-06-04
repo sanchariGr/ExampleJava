@@ -23,3 +23,5 @@ Post a local run the reports can be found under /target/surefire-reports. Also a
 To run using a browser include browser exec within /drivers
 included in the package is the latest chromedriver version (https://chromedriver.storage.googleapis.com/index.html?path=91.0.4472.19/)
 for Chrome version 91. 
+
+<img width="1439" alt="Screenshot 2021-06-04 at 13 13 58" src="https://user-images.githubusercontent.com/2388088/120794101-1371d600-c538-11eb-8db1-6743db384494.png">
